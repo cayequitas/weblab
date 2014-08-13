@@ -2,60 +2,60 @@
 
 
 header  {
-       background: white;
-       overflow: hidden;
-       padding: 5em;
-       position: relative;
-       
-       
-       }
+ background: white;
+ overflow: hidden;
+ padding: 5em;
+ position: relative;
+
+
+}
 header .logo{
-            
-            float: center;
-            width: 50%; 
-            margin-left: 160px;
-        }       
+
+    float: center;
+    width: 50%; 
+    margin-left: 160px;
+}       
 header .titular{
-            display: inline-block;
-            position: absolute;
-            float: center;
-            width: 50%; 
-            
-        }       
-    header .titular .titulo{
-            position: absolute;
-            float: right;
-            width: 50%;   
-        } 
-        header .titular .titulo img{
-           
-            position: absolute;
-            float: left;
-            bottom: 35px;
-            left: 457px;
-            width: 300px;
-            
-          } 
-    header .titular .titulo2{
-            position: absolute;
-            float: right;
-            width: 50%; 
-           
-        }       
-        header .titular .titulo2 img{
-            
-            position: absolute;
-            float: left;
-            bottom: -30px;
-            left: 400px;
-            width: 350px;
-            
-          }   
-  
-        
-                             
-      
-       
+    display: inline-block;
+    position: absolute;
+    float: center;
+    width: 50%; 
+
+}       
+header .titular .titulo{
+    position: absolute;
+    float: right;
+    width: 50%;   
+} 
+header .titular .titulo img{
+
+    position: absolute;
+    float: left;
+    bottom: 35px;
+    left: 457px;
+    width: 300px;
+
+} 
+header .titular .titulo2{
+    position: absolute;
+    float: right;
+    width: 50%; 
+
+}       
+header .titular .titulo2 img{
+
+    position: absolute;
+    float: left;
+    bottom: -30px;
+    left: 400px;
+    width: 350px;
+
+}   
+
+
+
+
+
 nav{
     background: #168ECD;
     border-left: 15px solid #fff;
@@ -82,50 +82,50 @@ nav:after {
 }
 
 nav .menu{
-        height: 40px;
-        line-height: 40px;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        white-space: nowrap;
-        text-align: center;
-        
-    }
+    height: 40px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+
+}
 
 nav .menu li{
-        position: relative;
-        bottom: 10px;
-        display: inline-block;
-    }
+    position: relative;
+    bottom: 10px;
+    display: inline-block;
+}
 nav .menu li a{
-        color: #fff;
-        display: block;
-        margin: 0.5em;
-        padding: 0.2em;
-        text-decoration: none;
-        font-size: 18px;
-        
-    }
+    color: #fff;
+    display: block;
+    margin: 0.5em;
+    padding: 0.2em;
+    text-decoration: none;
+    font-size: 18px;
+
+}
 
 body{
-    
+
     margin: 0;
     margin-right: 0;
     margin-left: 0;
 }    
-    
+
 section{
-     margin: 0;
-     background: black;
-     height: 100%;
-    
+   margin: 0;
+   background: black;
+   height: 100%;
+
 }
 article{
-     margin: 0;
-     background: black;
-     width: 100%;
-     height: 100%;
-    
+   margin: 0;
+   background: black;
+   width: 100%;
+   height: 100%;
+
 }
 
 footer{
@@ -137,13 +137,12 @@ footer{
 }
 
 footer h3{
-     font-size: 14px;
-     font-weight: normal;
-    }
-    
-footer h3 strong{
-        display: block;
+   font-size: 14px;
+   font-weight: normal;
 }
-    
-    
-    
+
+footer h3 strong{
+    display: block;
+}
+
+
