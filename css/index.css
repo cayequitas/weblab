@@ -2,10 +2,12 @@
 
 
 header  {
+ 
  background: white;
  overflow: hidden;
- padding: 5em;
  position: relative;
+ 
+
 
 
 }
@@ -145,4 +147,14 @@ footer h3 strong{
     display: block;
 }
 
+img{
+    position: relative;
+    width: 100%;
+
+}
+
+    img .img-logo{
+    position: absolute;
+    left: 10%;
+    }
 
